@@ -1,2 +1,2 @@
 # finalProject
-DEVELOPER_ final Project
+파이널 프로젝트
